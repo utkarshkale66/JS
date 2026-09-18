@@ -1,0 +1,37 @@
+.canvas {
+    text-align: center;
+    font-weight: bold;
+}
+
+#grey {
+  display: flex;
+  height: 50px;
+  width: 200px;
+  background-color: grey;
+  margin: auto;
+}
+
+#white {
+  display: flex;
+  height: 50px;
+  width: 200px;
+  background-color: white;
+  margin: auto;
+}
+
+#blue {
+  display: flex;
+  height: 50px;
+  width: 200px;
+  background-color: blue;
+  margin: auto;
+}
+
+#yellow {
+  display: flex;
+  height: 50px;
+  width: 200px;
+  background-color: yellow;
+  margin: auto;
+}
+
